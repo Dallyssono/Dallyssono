@@ -1,5 +1,4 @@
 ### Hi there! I'm Dallysson 👋
-🎓 Análise e Desenvolvimento de Sistemas 💻
 
 
 - 🔭 I’m currently working on front-end
